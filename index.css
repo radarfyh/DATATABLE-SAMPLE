@@ -1,0 +1,14 @@
+div.container {
+	width: 80%;
+	color: green;
+}
+
+td.highlight {
+	font-weight: bold;
+	color: blue;
+}
+
+tr.group,
+tr.group:hover {
+    background-color: #ddd !important;
+}
